@@ -36,6 +36,22 @@
             "url": "https://zxkq1-50400.sse.codesandbox.io"
           },
           "closeable": true
+        },
+        {
+          "id": "codesandbox.browser",
+          "options": {
+            "port": 50400,
+            "url": "https://qy7zn-50400.sse.codesandbox.io"
+          },
+          "closeable": true
+        },
+        {
+          "id": "codesandbox.browser",
+          "options": {
+            "port": 35893,
+            "url": "https://qy7zn-35893.sse.codesandbox.io"
+          },
+          "closeable": true
         }
       ]
     },
