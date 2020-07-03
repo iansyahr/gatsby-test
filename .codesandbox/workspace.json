@@ -16,40 +16,8 @@
         {
           "id": "codesandbox.browser",
           "options": {
-            "port": 40535,
-            "url": "https://zxkq1-40535.sse.codesandbox.io"
-          },
-          "closeable": true
-        },
-        {
-          "id": "codesandbox.browser",
-          "options": {
-            "port": 45317,
-            "url": "https://zxkq1-45317.sse.codesandbox.io"
-          },
-          "closeable": true
-        },
-        {
-          "id": "codesandbox.browser",
-          "options": {
-            "port": 50400,
-            "url": "https://zxkq1-50400.sse.codesandbox.io"
-          },
-          "closeable": true
-        },
-        {
-          "id": "codesandbox.browser",
-          "options": {
-            "port": 50400,
-            "url": "https://qy7zn-50400.sse.codesandbox.io"
-          },
-          "closeable": true
-        },
-        {
-          "id": "codesandbox.browser",
-          "options": {
-            "port": 35893,
-            "url": "https://qy7zn-35893.sse.codesandbox.io"
+            "port": 43859,
+            "url": "https://qy7zn-43859.sse.codesandbox.io"
           },
           "closeable": true
         }
