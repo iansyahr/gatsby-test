@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Muhamad Apriansyah Ramadhan`,
-    subtitle: `Awan ☁️, Paus 🐋, Pinguin 🐧.`,
+    subtitle: `Awan ☁️, Paus 🐋, Penguin 🐧.`,
     description: `A minimal blog starter built with Gatsbyjs. The needed Gatsby files are included.`,
     author: `@niklasmtj`,
   },
